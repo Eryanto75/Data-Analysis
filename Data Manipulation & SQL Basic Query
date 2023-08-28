@@ -1,7 +1,1 @@
-import pandas as pd
 
-vaccine = pd.read_csv("vaccination_data.csv")
-vaccine.head()
-
-covid = pd.read_csv("covid_data.csv")
-covid.head()
